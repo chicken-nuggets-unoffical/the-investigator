@@ -1,1 +1,1 @@
-Status: Under inveastigation.
+Status: Incident resolved.
