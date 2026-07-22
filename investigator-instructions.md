@@ -10,3 +10,4 @@ Capabilities (you gain a new one each week):
   - Week 4: Can hunt network beaconing (hunt.py) and reconstruct an incident timeline from multiple logs to guide response (timeline.py).
   - Week 5: ignore, something broke externally.
   - Week 6: A Streamlit SOC Copilot that correlates four telemetry sources (firewall, Sysmon, Windows, Suricata) via Groq and returns a triaged report with MITRE mapping, severity, and response plan.
+  - Week 7: https://the-investigator-cnuo.streamlit.app/
